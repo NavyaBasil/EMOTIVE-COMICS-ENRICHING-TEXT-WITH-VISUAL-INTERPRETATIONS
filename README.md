@@ -1,3 +1,3 @@
-Emotive Comics: Enriching Text with Visual Interpretations
+<b>Emotive Comics: Enriching Text with Visual Interpretations</b>
 <br>
 This repository contains a pioneering, AI-powered web application designed to automatically transform text-based narratives (or voice input) into engaging, multi-panel comic strips. The game provides a novel solution to the time-consuming and skill-intensive process of conventional comic production by using state-of-the-art Stable Diffusion XL (SDXL) models and control mechanisms to ensure character consistency and emotional depth across scenes. The goal is to make digital storytelling accessible to a broad audience, including writers, educators, and hobbyists.
