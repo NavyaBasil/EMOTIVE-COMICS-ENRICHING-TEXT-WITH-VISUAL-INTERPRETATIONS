@@ -19,3 +19,6 @@ Follow the on-screen instructions by navigating to http://127.0.0.1:5000 in your
 
 <b>Dependencies</b>
 
+You may need to install the dependencies using:
+pip install flask torch diffusers transformers pillow numpy controlnet-aux speechrecognition xformers
+(Note: Installation of torch and xformers may require specific commands based on your operating system and CUDA version.)
