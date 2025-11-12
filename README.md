@@ -10,11 +10,11 @@ The project's core functionality is **AI-Powered Visual Synthesis**, generating 
 
 <b>How to Run</b>
 
-Clone the repository to your local machine.
-Ensure you have Python 3.8+ and a dedicated NVIDIA GPU with at least 8GB VRAM installed due to the demanding nature of the AI models.
-Ensure you have installed the necessary dependencies.
-Run the application using the following command:
-python app.py
+Clone the repository to your local machine.<br>
+Ensure you have Python 3.8+ and a dedicated NVIDIA GPU with at least 8GB VRAM installed due to the demanding nature of the AI models.<br>
+Ensure you have installed the necessary dependencies.<br>
+Run the application using the following command:<br>
+python app.py<br>
 Follow the on-screen instructions by navigating to http://127.0.0.1:5000 in your web browser. The server will take a few minutes to load the AI models on startup.
 
 <b>Dependencies</b>
