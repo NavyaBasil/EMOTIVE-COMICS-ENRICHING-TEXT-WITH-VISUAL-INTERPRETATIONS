@@ -7,3 +7,13 @@ This repository contains a pioneering, AI-powered web application designed to au
 
 
 The project's core functionality is **AI-Powered Visual Synthesis**, generating high-quality, comic-style images using the Stable Diffusion XL (SDXL) model while leveraging a Refiner and including **Flexible Input Methods** for both text and voice narration. To maintain narrative quality, **Character Consistency** is achieved across all panels using ControlNet with OpenPose to stabilize the character's appearance and pose. Once visuals are created, the system handles **Comic Panel Rendering**, automatically assembling the images, adding borders, and overlaying narrative text and speech bubbles with the Pillow (PIL) library. Finally, **Performance Optimization** is vital, utilizing features like `xformers` and model CPU offloading to efficiently manage the high VRAM demands of the large diffusion models.
+
+<b>How to Run</b>
+
+Clone the repository to your local machine.
+Ensure you have Python 3.8+ and a dedicated NVIDIA GPU with at least 8GB VRAM installed due to the demanding nature of the AI models.
+Ensure you have installed the necessary dependencies.
+Run the application using the following command:
+python app.py
+Follow the on-screen instructions by navigating to http://127.0.0.1:5000 in your web browser. The server will take a few minutes to load the AI models on startup.
+
